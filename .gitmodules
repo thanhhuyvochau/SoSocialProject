@@ -1,0 +1,3 @@
+[submodule "sos-ui"]
+	path = sos-ui
+	url = git@github.com:thanhhuyvochau/sos-ui.git
